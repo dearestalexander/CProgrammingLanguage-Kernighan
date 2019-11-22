@@ -1,3 +1,6 @@
+// Exercise 1.3. Modify the temperature conversion program to print a heading above the table.
+// From section 1.3 pg 13 of 'The C Programming Language' second edition by Kernighan & Ritchie.
+
 #include <stdio.h>
 
 int main()
